@@ -1,0 +1,11 @@
+footer{
+    height: 80px;
+    padding: 15px;
+    background-color: var(--navbar-footer-color);
+    margin-top: 94vh;
+}
+
+.nav-link{
+    text-transform: uppercase;
+    color: var(--primary-color);
+}

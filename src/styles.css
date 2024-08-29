@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC&family=Roboto:ital,wght@1,900&display=swap');
+
+:root{
+    --primary-color: #1A1A1A;
+    --secondary-color: #737373;
+    --body-text-color: #262626;
+    --navbar-footer-color: #f9f9f9;
+
+
+}
+
+body{
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    color: var(--body-text-color);
+}
