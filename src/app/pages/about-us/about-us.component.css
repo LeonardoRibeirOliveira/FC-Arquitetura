@@ -1,0 +1,9 @@
+.btn-white {
+        background-color: #ffffff;
+        color: #000000; /* Cor do texto (preto) para contraste */
+        border: 1px solid #cccccc; /* Adiciona uma borda leve para visibilidade */
+    }
+    .btn-white:hover {
+        background-color: #f8f9fa; /* Leve alteração na cor ao passar o mouse */
+        border-color: #7f7f7f; /* Leve alteração na borda ao passar o mouse */
+    }

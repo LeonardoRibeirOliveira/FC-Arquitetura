@@ -31,3 +31,7 @@ body{
 .bg-theme{
     background-color: var(--navbar-footer-color);
 }
+
+.bg-secondary-theme{
+    background-color: var(--primary-color);
+}

@@ -1,0 +1,21 @@
+.card-img-top{
+    box-shadow: 0px 0px 33px -10px var(--secondary-color);
+}
+
+.images-post {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.images-post img {
+    width: 500px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    object-fit: cover;
+}
+
+.images-post img:hover {
+    transform: scale(1.03);
+    box-shadow: 0px 0px 50px -5px var(--secondary-color);
+}
