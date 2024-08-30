@@ -7,10 +7,9 @@
 
 :root{
     --primary-color: #1A1A1A;
+    --navbar-footer-color: #f9f9f9;
     --secondary-color: #737373;
     --body-text-color: #262626;
-    --navbar-footer-color: #f9f9f9;
-
 
 }
 
@@ -18,4 +17,17 @@ body{
     font-family: "Roboto", sans-serif;
     font-size: 12px;
     color: var(--body-text-color);
+    display: contents;
+}
+
+.site-logo {
+    height: 80px;
+}
+
+.nav-link{
+    text-transform: uppercase;
+    color: var(--primary-color);
+}
+.bg-theme{
+    background-color: var(--navbar-footer-color);
 }

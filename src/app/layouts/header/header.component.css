@@ -1,10 +1,8 @@
 header{
-    height: 100px;
+    height: 80px;
     background-color: var(--primary-color);
 }
 
 .site-logo {
-    padding: 0px 20px;
-    border-radius: 20px;
-    height: 100px;
+    height: 80px;
 }
